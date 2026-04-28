@@ -177,14 +177,16 @@ Allocate belts / piers dynamically using forecasted bag volume.
 Use ML outputs to optimize labor shifts.
 
 ---
+Data Confidentiality Notice
 
-# 📁 Repository Structure
+This repository does not contain the original airline dataset.
 
-```text
-baggage-arrival-prediction/
-│
-├── FINAL_CODE_OF_AA.ipynb
-├── Predicting Baggage Arrival.pdf
-├── README.md
-├── requirements.txt
-└── images/
+All proprietary / sensitive operational data has been excluded.
+
+Repository shared for:
+
+Methodology
+Modeling workflow
+Analysis approach
+Business insights
+Educational / portfolio demonstration
